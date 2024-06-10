@@ -1,5 +1,7 @@
 # Movie Recommender Chatbot
-Movie recommender chatbot using FastAPI, LangChain and semantic-router with FAISS RAG.
+Movie recommender chatbot using FastAPI, Streamlit, LangChain and semantic-router with FAISS RAG.
+
+![Streamlit app](images/app.png)
 
 ## How to Run it 🛫
 
